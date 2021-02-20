@@ -9,6 +9,8 @@ GitHub project (Project 3) repository for PDSND
 
 ### Files used
 bikeshare.py
+README.md
+.gitignore
 
 ### Credits
 This project is forked from Udacity
