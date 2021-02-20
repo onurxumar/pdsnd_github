@@ -172,7 +172,6 @@ def user_stats(df, city):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
-
 def display_data(df):
     """
     Display contents of the CSV file to the display as requested by
@@ -195,7 +194,7 @@ def display_data(df):
             if end_display == 'no':
                 break
 
-
+""" main function starting from here """
 def main():
 
     while True:
