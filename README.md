@@ -1,11 +1,11 @@
 ### Date created
-Include the date you created this project and README file.
+02-21-2021, Sunday
 
 ### Project Title
-Replace the Project Title
+Udacity Assignment Project
 
 ### Description
-Describe what your project is about and what it does
+GitHub project (Project 3) repository for PDSND
 
 ### Files used
 Include the files used
